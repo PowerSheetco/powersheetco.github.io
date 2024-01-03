@@ -1,1 +1,1 @@
-PowerSheet RSS Reader Upwork
+PowerSheet RSS Reader for Upwork

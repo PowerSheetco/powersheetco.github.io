@@ -1,4 +1,4 @@
-# PowerSheet RSS Reader Upwork
+# 💪 PowerSheet RSS Reader Upwork
 
 powersheet.co website repository
 

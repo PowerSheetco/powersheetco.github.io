@@ -6,4 +6,4 @@ Unleash the power of Google Sheets
 
 Coming very soon!!!
 
-1
+c

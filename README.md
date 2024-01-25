@@ -6,3 +6,4 @@ Unleash the power of Google Sheets
 
 Coming very soon!!!
 
+{% include analytics.html %}

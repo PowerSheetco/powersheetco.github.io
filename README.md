@@ -1,4 +1,5 @@
-# powersheetco.github.io
+# PowerSheet RSS Reader Upwork
+
 powersheet.co website repository
 
 Unleash the power of Google Sheets

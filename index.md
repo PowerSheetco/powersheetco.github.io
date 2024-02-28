@@ -1,5 +1,4 @@
 ---
-layout: base
 title: PowerSheet RSS Reader Upwork
 ---
 

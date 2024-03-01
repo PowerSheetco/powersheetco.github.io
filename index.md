@@ -4,6 +4,10 @@ layout: default
 
 # PowerSheet
 
-### Tools:
+### Tools
 
 [PowerSheet RSS Reader Upwork](powersheet.co/rss-reader-upwork/)
+
+---
+
+[Contact](https://docs.google.com/forms/d/e/1FAIpQLSfXaCPD_zB4Cvvqs8wF2EISJhNE4-jk0bzz6PJkqeumzbh1gQ/viewform?usp=sf_link)

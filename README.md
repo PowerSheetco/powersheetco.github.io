@@ -1,3 +1,3 @@
-# PowerSheet RSS Reader Upwork
+# PowerSheet
 
 powersheet.co website repository

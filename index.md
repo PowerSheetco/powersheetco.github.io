@@ -1,8 +1,6 @@
----
-layout: default
----
-
 # PowerSheet
+
+We develop Google Workspace tools add-ons and templates
 
 [PowerSheet RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 

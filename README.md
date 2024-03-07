@@ -2,7 +2,7 @@
 
 We develop tools, add-ons and templates for Google Sheets and other Google Workspace products
 
-Unleash the power of Google Sheets
+For example
 
 [PowerSheet RSS Reader Upwork](https://powersheet.co/rss-reader-upwork/)
 

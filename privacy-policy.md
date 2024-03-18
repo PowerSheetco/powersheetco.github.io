@@ -1,5 +1,3 @@
-# [PowerSheet](https://powersheet.co/)
-
 # Privacy Policy
 
 We do our best to minimise the data we collect about you and get only what we need for the software to function.

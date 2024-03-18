@@ -71,7 +71,6 @@ We just want to know HOW MANY people are visiting our website - and not WHO is d
 
 ### Newsletter
 
-We may ask the following information about you for the newsletter (please keep in mind that any bit of it is optional):
 * Your email
 * Your Upwork profile URL - used for analytics and sending our own job offers to suitable freelancers
 * Consent to receive news and announcement emails
@@ -79,7 +78,7 @@ We may ask the following information about you for the newsletter (please keep i
 
 ### Billing Information
 
-We use [Stripe](https://stripe.com) for payment processing on our website. The billing information we collect about you is:
+We use [Stripe](https://stripe.com) for payment processing on our website. The billing information we collect from you:
 
 * Your name
 * Your email

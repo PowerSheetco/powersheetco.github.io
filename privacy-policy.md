@@ -2,8 +2,6 @@
 
 # Privacy Policy
 
-We do our best to minimise the data we collect and require only what we need for the software to function.
-
 ## Data we collect
 
 ### Spreadsheet and Google Account Information
